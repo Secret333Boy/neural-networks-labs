@@ -130,3 +130,4 @@ dist
 .pnp.*
 tmp
 dataset*
+SkyFusion.v1i.coco
